@@ -1484,3 +1484,33 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+
+/* Círculos de colores numerados */
+span.red {
+  background: red;
+   border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 0.6em;
+  margin-right: 15px;
+  text-align: center;
+  width: 0.6em; 
+}
+
+span.green {
+  background: #5EA226;
+  border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 0.6em;
+  margin-right: 15px;
+  text-align: center;
+  width: 0.6em; 
+}
